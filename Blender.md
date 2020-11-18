@@ -13,9 +13,9 @@
 | ALT - E：挤出菜单                                | SHIFT - D：复制                                              | CTRL - 小键盘-：差值                   |
 | CTRL-1-6：表面细分                               | ALT-SHIFT-S： 球形化                                         |                                        |
 | CTRL + I：选中反转                               | ALT - A：对齐到…                                             | CTRL - （小键盘+）：选中再扩选         |
-| F3：搜索                                         | SHIFT -S：调整原点                                           | SHIFT-左键 ；CTRL-L：效果复制          |
+| F3：搜索<br />F2：重命名                         | SHIFT -S：调整原点                                           | SHIFT-左键 ；CTRL-L：效果复制          |
 | SHIFT-N：重新计算法线                            | ALT-M：拆分                                                  | CTRL-ALT-Q：四视图                     |
-| 小键盘/：显示选中物体                            |                                                              |                                        |
+| 小键盘/：显示选中物体                            | CTRL-L：点面选择全部（多个）                                 | ALT-R：                                |
 |                                                  | **雕刻Sculpting**                                            |                                        |
 | F：笔刷调大小                                    | SHIFT + F：硬度                                              |                                        |
 |                                                  |                                                              |                                        |
