@@ -206,6 +206,42 @@
 
 
 
+## 参考网址
+
+1. ##### Fluid Simulator
+
+   [the New Blender Fluid Simulator is AWESOME - MantaFlow Tutorial](https://www.youtube.com/watch?v=JYc_6fXEjw4)
+
+2. **水滴**
+
+   [making rain drops trails on glass in blender 2.8](https://www.youtube.com/watch?v=0koL5NGBaA0)
+
+   [Animated Rain and Splash Effects | Blender 2.8 Tutorial](https://www.youtube.com/watch?v=35bbyAJodEQ)
+
+3. **瓶罐杯**
+
+   [Part 1 Modeling The Can](https://www.youtube.com/watch?v=kMMQ1thCgSU)
+
+   [modeling a hennesy bottle in blender 2 8](https://www.youtube.com/watch?v=ZixhAVPOh1k)
+
+   [啤酒模型 泡沫-开酒器-冷气](https://www.bilibili.com/video/BV1XW411f7Hp?from=search&seid=3105266827646115275)
+
+   [modeling beer in a glass in blender 2 8 tutorial](https://www.youtube.com/watch?v=ERzF7zXFhz0)
+
+   
+
+   
+
+   
+
+   
+
+
+
+
+
+
+
 
 
 
